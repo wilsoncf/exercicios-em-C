@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583777622 source:c:\users\wilson\downloads\softwares\aula\op mat\main.c
+	<stdio.h>
+	<stdlib.h>
+

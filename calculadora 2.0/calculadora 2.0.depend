@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1583849504 source:c:\users\wilson\downloads\softwares\aula\calculadora 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583849504 source:c:\users\wilson\downloads\softwares\códigos c\calculadora 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+
